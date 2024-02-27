@@ -4,11 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-<<<<<<< HEAD
-    tools:context=".MainActivity">
-=======
     tools:context=".TestingMainActivity">
->>>>>>> 8a6899b (Initial commit)
 
     <LinearLayout
         android:layout_width="match_parent"

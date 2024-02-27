@@ -11,7 +11,7 @@
         android:theme="@style/Theme.TestingCreateModule">
         <activity
             android:name=".TestingMainActivity"
-            android:exported="false">
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
