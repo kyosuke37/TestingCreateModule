@@ -10,13 +10,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TestingCreateModule">
         <activity
-<<<<<<< HEAD
-            android:name=".MainActivity"
-            android:exported="true">
-=======
             android:name=".TestingMainActivity"
             android:exported="false">
->>>>>>> 8a6899b (Initial commit)
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
